@@ -1,0 +1,385 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="15.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <Import Project="$(MSBuildExtensionsPath)\$(MSBuildToolsVersion)\Microsoft.Common.props" Condition="Exists('$(MSBuildExtensionsPath)\$(MSBuildToolsVersion)\Microsoft.Common.props')" />
+  <PropertyGroup>
+    <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
+    <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
+    <ProjectGuid>{5CCA6801-4A07-45FB-874C-0F568E7708E8}</ProjectGuid>
+    <OutputType>WinExe</OutputType>
+    <RootNamespace>arac_kiralama</RootNamespace>
+    <AssemblyName>arac kiralama</AssemblyName>
+    <TargetFrameworkVersion>v4.6.1</TargetFrameworkVersion>
+    <FileAlignment>512</FileAlignment>
+    <AutoGenerateBindingRedirects>true</AutoGenerateBindingRedirects>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Debug|AnyCPU' ">
+    <PlatformTarget>AnyCPU</PlatformTarget>
+    <DebugSymbols>true</DebugSymbols>
+    <DebugType>full</DebugType>
+    <Optimize>false</Optimize>
+    <OutputPath>bin\Debug\</OutputPath>
+    <DefineConstants>DEBUG;TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Release|AnyCPU' ">
+    <PlatformTarget>AnyCPU</PlatformTarget>
+    <DebugType>pdbonly</DebugType>
+    <Optimize>true</Optimize>
+    <OutputPath>bin\Release\</OutputPath>
+    <DefineConstants>TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <ItemGroup>
+    <Reference Include="EntityFramework, Version=6.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089, processorArchitecture=MSIL">
+      <HintPath>..\packages\EntityFramework.6.2.0\lib\net45\EntityFramework.dll</HintPath>
+    </Reference>
+    <Reference Include="EntityFramework.SqlServer, Version=6.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089, processorArchitecture=MSIL">
+      <HintPath>..\packages\EntityFramework.6.2.0\lib\net45\EntityFramework.SqlServer.dll</HintPath>
+    </Reference>
+    <Reference Include="MetroFramework, Version=1.4.0.0, Culture=neutral, PublicKeyToken=5f91a84759bf584a, processorArchitecture=MSIL">
+      <HintPath>..\packages\MetroModernUI.1.4.0.0\lib\net\MetroFramework.dll</HintPath>
+    </Reference>
+    <Reference Include="MetroFramework.Design, Version=1.4.0.0, Culture=neutral, PublicKeyToken=5f91a84759bf584a, processorArchitecture=MSIL">
+      <HintPath>..\packages\MetroModernUI.1.4.0.0\lib\net\MetroFramework.Design.dll</HintPath>
+    </Reference>
+    <Reference Include="MetroFramework.Fonts, Version=1.4.0.0, Culture=neutral, PublicKeyToken=5f91a84759bf584a, processorArchitecture=MSIL">
+      <HintPath>..\packages\MetroModernUI.1.4.0.0\lib\net\MetroFramework.Fonts.dll</HintPath>
+    </Reference>
+    <Reference Include="System" />
+    <Reference Include="System.ComponentModel.DataAnnotations" />
+    <Reference Include="System.Core" />
+    <Reference Include="System.Runtime.Serialization" />
+    <Reference Include="System.Security" />
+    <Reference Include="System.Xml.Linq" />
+    <Reference Include="System.Data.DataSetExtensions" />
+    <Reference Include="Microsoft.CSharp" />
+    <Reference Include="System.Data" />
+    <Reference Include="System.Deployment" />
+    <Reference Include="System.Drawing" />
+    <Reference Include="System.Net.Http" />
+    <Reference Include="System.Windows.Forms" />
+    <Reference Include="System.Xml" />
+  </ItemGroup>
+  <ItemGroup>
+    <Compile Include="acilis.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="acilis.Designer.cs">
+      <DependentUpon>acilis.cs</DependentUpon>
+    </Compile>
+    <Compile Include="anasayfa.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="anasayfa.Designer.cs">
+      <DependentUpon>anasayfa.cs</DependentUpon>
+    </Compile>
+    <Compile Include="arac.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="arac.Designer.cs">
+      <DependentUpon>arac.cs</DependentUpon>
+    </Compile>
+    <Compile Include="aracduzenle.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="aracduzenle.Designer.cs">
+      <DependentUpon>aracduzenle.cs</DependentUpon>
+    </Compile>
+    <Compile Include="aracekle.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="aracekle.Designer.cs">
+      <DependentUpon>aracekle.cs</DependentUpon>
+    </Compile>
+    <Compile Include="araclar.cs" />
+    <Compile Include="aracsec.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="aracsec.Designer.cs">
+      <DependentUpon>aracsec.cs</DependentUpon>
+    </Compile>
+    <Compile Include="ayarlar.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="ayarlar.Designer.cs">
+      <DependentUpon>ayarlar.cs</DependentUpon>
+    </Compile>
+    <Compile Include="bugun.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="bugun.Designer.cs">
+      <DependentUpon>bugun.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Form1.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Form1.Designer.cs">
+      <DependentUpon>Form1.cs</DependentUpon>
+    </Compile>
+    <Compile Include="insan.cs" />
+    <Compile Include="kira.cs" />
+    <Compile Include="kiradakiarac.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Include="kiradakiarac.Designer.cs">
+      <DependentUpon>kiradakiarac.cs</DependentUpon>
+    </Compile>
+    <Compile Include="kiragecmis.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="kiragecmis.Designer.cs">
+      <DependentUpon>kiragecmis.cs</DependentUpon>
+    </Compile>
+    <Compile Include="kirala.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="kirala.Designer.cs">
+      <DependentUpon>kirala.cs</DependentUpon>
+    </Compile>
+    <Compile Include="kullanici.cs" />
+    <Compile Include="marka.cs" />
+    <Compile Include="markaekle.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Include="markaekle.Designer.cs">
+      <DependentUpon>markaekle.cs</DependentUpon>
+    </Compile>
+    <Compile Include="mesaj.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="mesaj.Designer.cs">
+      <DependentUpon>mesaj.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Migrations\201712271608291_InitialCreate.cs" />
+    <Compile Include="Migrations\201712271608291_InitialCreate.Designer.cs">
+      <DependentUpon>201712271608291_InitialCreate.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Migrations\201712271658581_InitialCreate1.cs" />
+    <Compile Include="Migrations\201712271658581_InitialCreate1.Designer.cs">
+      <DependentUpon>201712271658581_InitialCreate1.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Migrations\201712280147056_kiraveritabani.cs" />
+    <Compile Include="Migrations\201712280147056_kiraveritabani.Designer.cs">
+      <DependentUpon>201712280147056_kiraveritabani.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Migrations\201712280156102_kiraveritabani1.cs" />
+    <Compile Include="Migrations\201712280156102_kiraveritabani1.Designer.cs">
+      <DependentUpon>201712280156102_kiraveritabani1.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Migrations\201712280159544_kiraveritabani2.cs" />
+    <Compile Include="Migrations\201712280159544_kiraveritabani2.Designer.cs">
+      <DependentUpon>201712280159544_kiraveritabani2.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Migrations\201712280203039_kiraveritabani3.cs" />
+    <Compile Include="Migrations\201712280203039_kiraveritabani3.Designer.cs">
+      <DependentUpon>201712280203039_kiraveritabani3.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Migrations\Configuration.cs" />
+    <Compile Include="model.cs" />
+    <Compile Include="kiraveritabani.cs" />
+    <Compile Include="modelekle.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Include="modelekle.Designer.cs">
+      <DependentUpon>modelekle.cs</DependentUpon>
+    </Compile>
+    <Compile Include="musteriekle.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="musteriekle.Designer.cs">
+      <DependentUpon>musteriekle.cs</DependentUpon>
+    </Compile>
+    <Compile Include="musteriform.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="musteriform.Designer.cs">
+      <DependentUpon>musteriform.cs</DependentUpon>
+    </Compile>
+    <Compile Include="musteriler.cs" />
+    <Compile Include="musterisec.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="musterisec.Designer.cs">
+      <DependentUpon>musterisec.cs</DependentUpon>
+    </Compile>
+    <Compile Include="musteriyiduzenle.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="musteriyiduzenle.Designer.cs">
+      <DependentUpon>musteriyiduzenle.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Program.cs" />
+    <Compile Include="Properties\AssemblyInfo.cs" />
+    <Compile Include="teslimal.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="teslimal.Designer.cs">
+      <DependentUpon>teslimal.cs</DependentUpon>
+    </Compile>
+    <Compile Include="teslimalinacak.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Include="teslimalinacak.Designer.cs">
+      <DependentUpon>teslimalinacak.cs</DependentUpon>
+    </Compile>
+    <EmbeddedResource Include="acilis.resx">
+      <DependentUpon>acilis.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="anasayfa.resx">
+      <DependentUpon>anasayfa.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="arac.resx">
+      <DependentUpon>arac.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="aracduzenle.resx">
+      <DependentUpon>aracduzenle.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="aracekle.resx">
+      <DependentUpon>aracekle.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="aracsec.resx">
+      <DependentUpon>aracsec.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="ayarlar.resx">
+      <DependentUpon>ayarlar.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="bugun.resx">
+      <DependentUpon>bugun.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Form1.resx">
+      <DependentUpon>Form1.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="kiradakiarac.resx">
+      <DependentUpon>kiradakiarac.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="kiragecmis.resx">
+      <DependentUpon>kiragecmis.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="kirala.resx">
+      <DependentUpon>kirala.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="markaekle.resx">
+      <DependentUpon>markaekle.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="mesaj.resx">
+      <DependentUpon>mesaj.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Migrations\201712271608291_InitialCreate.resx">
+      <DependentUpon>201712271608291_InitialCreate.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Migrations\201712271658581_InitialCreate1.resx">
+      <DependentUpon>201712271658581_InitialCreate1.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Migrations\201712280147056_kiraveritabani.resx">
+      <DependentUpon>201712280147056_kiraveritabani.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Migrations\201712280156102_kiraveritabani1.resx">
+      <DependentUpon>201712280156102_kiraveritabani1.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Migrations\201712280159544_kiraveritabani2.resx">
+      <DependentUpon>201712280159544_kiraveritabani2.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Migrations\201712280203039_kiraveritabani3.resx">
+      <DependentUpon>201712280203039_kiraveritabani3.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="modelekle.resx">
+      <DependentUpon>modelekle.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="musteriekle.resx">
+      <DependentUpon>musteriekle.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="musteriform.resx">
+      <DependentUpon>musteriform.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="musterisec.resx">
+      <DependentUpon>musterisec.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="musteriyiduzenle.resx">
+      <DependentUpon>musteriyiduzenle.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Properties\Resources.resx">
+      <Generator>ResXFileCodeGenerator</Generator>
+      <LastGenOutput>Resources.Designer.cs</LastGenOutput>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <Compile Include="Properties\Resources.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DependentUpon>Resources.resx</DependentUpon>
+      <DesignTime>True</DesignTime>
+    </Compile>
+    <EmbeddedResource Include="teslimal.resx">
+      <DependentUpon>teslimal.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="teslimalinacak.resx">
+      <DependentUpon>teslimalinacak.cs</DependentUpon>
+    </EmbeddedResource>
+    <None Include="packages.config" />
+    <None Include="Properties\Settings.settings">
+      <Generator>SettingsSingleFileGenerator</Generator>
+      <LastGenOutput>Settings.Designer.cs</LastGenOutput>
+    </None>
+    <Compile Include="Properties\Settings.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DependentUpon>Settings.settings</DependentUpon>
+      <DesignTimeSharedInput>True</DesignTimeSharedInput>
+    </Compile>
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="App.config">
+      <SubType>Designer</SubType>
+    </None>
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="resimler\proje\kullanici.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="resimler\proje\user %283%29.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="resimler\proje\man.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <Content Include="resimler\proje\a.png" />
+    <Content Include="resimler\proje\add.png" />
+    <Content Include="resimler\proje\american-dollar-symbol.png" />
+    <Content Include="resimler\proje\araba.png" />
+    <Content Include="resimler\proje\binoculars.png" />
+    <Content Include="resimler\proje\c.png" />
+    <Content Include="resimler\proje\calendar.png" />
+    <Content Include="resimler\proje\car-inside-a-garage.png" />
+    <Content Include="resimler\proje\car.png" />
+    <Content Include="resimler\proje\clock.png" />
+    <Content Include="resimler\proje\duzenmusteri.png" />
+    <Content Include="resimler\proje\eklemusteri.png" />
+    <Content Include="resimler\proje\ekleresim.png" />
+    <Content Include="resimler\proje\euro.png" />
+    <Content Include="resimler\proje\freezer.png" />
+    <Content Include="resimler\proje\gas-station.png" />
+    <Content Include="resimler\proje\gearbox.png" />
+    <Content Include="resimler\proje\home-icon-silhouette %281%29.png" />
+    <Content Include="resimler\proje\image.png" />
+    <Content Include="resimler\proje\kirmizilira.png" />
+    <Content Include="resimler\proje\koltuk.png" />
+    <Content Include="resimler\proje\manager.png" />
+    <Content Include="resimler\proje\minimize.png" />
+    <None Include="resimler\proje\N.png" />
+    <Content Include="resimler\proje\no-photo.png" />
+    <Content Include="resimler\proje\robber-silhouette-trying-to-steal-car-part.png" />
+    <Content Include="resimler\proje\seat.png" />
+    <Content Include="resimler\proje\settings.png" />
+    <Content Include="resimler\proje\sportive-car-front.png" />
+    <Content Include="resimler\proje\subtraction.png" />
+    <Content Include="resimler\proje\t.png" />
+    <Content Include="resimler\proje\team %281%29.png" />
+    <Content Include="resimler\proje\team.png" />
+    <Content Include="resimler\proje\tl.png" />
+    <Content Include="resimler\proje\turkey-lira-currency-symbol.png" />
+    <Content Include="resimler\proje\turkish-lira.png" />
+    <Content Include="resimler\proje\user-male-black-shape.png" />
+    <Content Include="resimler\proje\wall-clock.png" />
+  </ItemGroup>
+  <ItemGroup />
+  <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
+</Project>

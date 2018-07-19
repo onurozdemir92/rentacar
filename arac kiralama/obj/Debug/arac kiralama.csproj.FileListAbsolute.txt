@@ -1,0 +1,248 @@
+C:\Users\Onur Rahmi Ozdemir\source\repos\arac kiralama\arac kiralama\bin\Debug\arac kiralama.exe.config
+C:\Users\Onur Rahmi Ozdemir\source\repos\arac kiralama\arac kiralama\bin\Debug\arac kiralama.exe
+C:\Users\Onur Rahmi Ozdemir\source\repos\arac kiralama\arac kiralama\bin\Debug\arac kiralama.pdb
+C:\Users\Onur Rahmi Ozdemir\source\repos\arac kiralama\arac kiralama\obj\Debug\arac kiralama.csprojResolveAssemblyReference.cache
+C:\Users\Onur Rahmi Ozdemir\source\repos\arac kiralama\arac kiralama\obj\Debug\arac_kiralama.Properties.Resources.resources
+C:\Users\Onur Rahmi Ozdemir\source\repos\arac kiralama\arac kiralama\obj\Debug\arac kiralama.csproj.GenerateResource.Cache
+C:\Users\Onur Rahmi Ozdemir\source\repos\arac kiralama\arac kiralama\obj\Debug\arac kiralama.csproj.CoreCompileInputs.cache
+C:\Users\Onur Rahmi Ozdemir\source\repos\arac kiralama\arac kiralama\obj\Debug\arac kiralama.exe
+C:\Users\Onur Rahmi Ozdemir\source\repos\arac kiralama\arac kiralama\obj\Debug\arac kiralama.pdb
+C:\Users\Onur Rahmi Ozdemir\source\repos\arac kiralama\arac kiralama\obj\Debug\arac_kiralama.giris.resources
+C:\Users\Onur Rahmi Ozdemir\source\repos\arac kiralama\arac kiralama\obj\Debug\arac_kiralama.anasayfa.resources
+C:\Users\Onur Rahmi Ozdemir\source\repos\arac kiralama\arac kiralama\obj\Debug\arac_kiralama.acilis.resources
+C:\Users\Onur Rahmi Ozdemir\source\repos\arac kiralama\arac kiralama\obj\Debug\arac_kiralama.kiradakiarac.resources
+C:\Users\Onur Rahmi Ozdemir\source\repos\arac kiralama\arac kiralama\obj\Debug\arac_kiralama.teslimalinacak.resources
+C:\Users\Onur Rahmi Ozdemir\source\repos\arac kiralama\arac kiralama\bin\Debug\MetroFramework.Design.dll
+C:\Users\Onur Rahmi Ozdemir\source\repos\arac kiralama\arac kiralama\bin\Debug\MetroFramework.dll
+C:\Users\Onur Rahmi Ozdemir\source\repos\arac kiralama\arac kiralama\bin\Debug\MetroFramework.Fonts.dll
+C:\Users\Onur Rahmi Ozdemir\source\repos\arac kiralama\arac kiralama\bin\Debug\EntityFramework.dll
+C:\Users\Onur Rahmi Ozdemir\source\repos\arac kiralama\arac kiralama\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\Onur Rahmi Ozdemir\source\repos\arac kiralama\arac kiralama\bin\Debug\EntityFramework.xml
+C:\Users\Onur Rahmi Ozdemir\source\repos\arac kiralama\arac kiralama\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\Onur Rahmi Ozdemir\source\repos\arac kiralama\arac kiralama\obj\Debug\arac_kiralama.arac.resources
+C:\Users\Onur Rahmi Ozdemir\source\repos\arac kiralama\arac kiralama\obj\Debug\arac_kiralama.mesaj.resources
+C:\Users\Onur Rahmi Ozdemir\source\repos\arac kiralama\arac kiralama\obj\Debug\arac_kiralama.aracekle.resources
+C:\Users\Onur Rahmi Ozdemir\source\repos\arac kiralama\arac kiralama\obj\Debug\arac_kiralama.aracduzenle.resources
+C:\Users\Onur Rahmi Ozdemir\source\repos\arac kiralama\arac kiralama\obj\Debug\arac_kiralama.musteriform.resources
+C:\Users\Onur Rahmi Ozdemir\source\repos\arac kiralama-17.12.2017\arac kiralama\arac kiralama\bin\Debug\arac kiralama.exe.config
+C:\Users\Onur Rahmi Ozdemir\source\repos\arac kiralama-17.12.2017\arac kiralama\arac kiralama\bin\Debug\arac kiralama.exe
+C:\Users\Onur Rahmi Ozdemir\source\repos\arac kiralama-17.12.2017\arac kiralama\arac kiralama\bin\Debug\arac kiralama.pdb
+C:\Users\Onur Rahmi Ozdemir\source\repos\arac kiralama-17.12.2017\arac kiralama\arac kiralama\bin\Debug\EntityFramework.dll
+C:\Users\Onur Rahmi Ozdemir\source\repos\arac kiralama-17.12.2017\arac kiralama\arac kiralama\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\Onur Rahmi Ozdemir\source\repos\arac kiralama-17.12.2017\arac kiralama\arac kiralama\bin\Debug\MetroFramework.Design.dll
+C:\Users\Onur Rahmi Ozdemir\source\repos\arac kiralama-17.12.2017\arac kiralama\arac kiralama\bin\Debug\MetroFramework.dll
+C:\Users\Onur Rahmi Ozdemir\source\repos\arac kiralama-17.12.2017\arac kiralama\arac kiralama\bin\Debug\MetroFramework.Fonts.dll
+C:\Users\Onur Rahmi Ozdemir\source\repos\arac kiralama-17.12.2017\arac kiralama\arac kiralama\bin\Debug\EntityFramework.xml
+C:\Users\Onur Rahmi Ozdemir\source\repos\arac kiralama-17.12.2017\arac kiralama\arac kiralama\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\Onur Rahmi Ozdemir\source\repos\arac kiralama-17.12.2017\arac kiralama\arac kiralama\obj\Debug\arac kiralama.csprojResolveAssemblyReference.cache
+C:\Users\Onur Rahmi Ozdemir\source\repos\arac kiralama-17.12.2017\arac kiralama\arac kiralama\obj\Debug\arac_kiralama.acilis.resources
+C:\Users\Onur Rahmi Ozdemir\source\repos\arac kiralama-17.12.2017\arac kiralama\arac kiralama\obj\Debug\arac_kiralama.anasayfa.resources
+C:\Users\Onur Rahmi Ozdemir\source\repos\arac kiralama-17.12.2017\arac kiralama\arac kiralama\obj\Debug\arac_kiralama.arac.resources
+C:\Users\Onur Rahmi Ozdemir\source\repos\arac kiralama-17.12.2017\arac kiralama\arac kiralama\obj\Debug\arac_kiralama.aracduzenle.resources
+C:\Users\Onur Rahmi Ozdemir\source\repos\arac kiralama-17.12.2017\arac kiralama\arac kiralama\obj\Debug\arac_kiralama.aracekle.resources
+C:\Users\Onur Rahmi Ozdemir\source\repos\arac kiralama-17.12.2017\arac kiralama\arac kiralama\obj\Debug\arac_kiralama.giris.resources
+C:\Users\Onur Rahmi Ozdemir\source\repos\arac kiralama-17.12.2017\arac kiralama\arac kiralama\obj\Debug\arac_kiralama.kiradakiarac.resources
+C:\Users\Onur Rahmi Ozdemir\source\repos\arac kiralama-17.12.2017\arac kiralama\arac kiralama\obj\Debug\arac_kiralama.mesaj.resources
+C:\Users\Onur Rahmi Ozdemir\source\repos\arac kiralama-17.12.2017\arac kiralama\arac kiralama\obj\Debug\arac_kiralama.musteriform.resources
+C:\Users\Onur Rahmi Ozdemir\source\repos\arac kiralama-17.12.2017\arac kiralama\arac kiralama\obj\Debug\arac_kiralama.Properties.Resources.resources
+C:\Users\Onur Rahmi Ozdemir\source\repos\arac kiralama-17.12.2017\arac kiralama\arac kiralama\obj\Debug\arac_kiralama.teslimalinacak.resources
+C:\Users\Onur Rahmi Ozdemir\source\repos\arac kiralama-17.12.2017\arac kiralama\arac kiralama\obj\Debug\arac kiralama.csproj.GenerateResource.Cache
+C:\Users\Onur Rahmi Ozdemir\source\repos\arac kiralama-17.12.2017\arac kiralama\arac kiralama\obj\Debug\arac kiralama.csproj.CoreCompileInputs.cache
+C:\Users\Onur Rahmi Ozdemir\source\repos\arac kiralama-17.12.2017\arac kiralama\arac kiralama\obj\Debug\arac kiralama.exe
+C:\Users\Onur Rahmi Ozdemir\source\repos\arac kiralama-17.12.2017\arac kiralama\arac kiralama\obj\Debug\arac kiralama.pdb
+C:\Users\Onur Rahmi Ozdemir\source\repos\arac kiralama-nesne proje\arac kiralama\arac kiralama\bin\Debug\arac kiralama.exe.config
+C:\Users\Onur Rahmi Ozdemir\source\repos\arac kiralama-nesne proje\arac kiralama\arac kiralama\bin\Debug\arac kiralama.exe
+C:\Users\Onur Rahmi Ozdemir\source\repos\arac kiralama-nesne proje\arac kiralama\arac kiralama\bin\Debug\arac kiralama.pdb
+C:\Users\Onur Rahmi Ozdemir\source\repos\arac kiralama-nesne proje\arac kiralama\arac kiralama\bin\Debug\EntityFramework.dll
+C:\Users\Onur Rahmi Ozdemir\source\repos\arac kiralama-nesne proje\arac kiralama\arac kiralama\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\Onur Rahmi Ozdemir\source\repos\arac kiralama-nesne proje\arac kiralama\arac kiralama\bin\Debug\MetroFramework.Design.dll
+C:\Users\Onur Rahmi Ozdemir\source\repos\arac kiralama-nesne proje\arac kiralama\arac kiralama\bin\Debug\MetroFramework.dll
+C:\Users\Onur Rahmi Ozdemir\source\repos\arac kiralama-nesne proje\arac kiralama\arac kiralama\bin\Debug\MetroFramework.Fonts.dll
+C:\Users\Onur Rahmi Ozdemir\source\repos\arac kiralama-nesne proje\arac kiralama\arac kiralama\bin\Debug\EntityFramework.xml
+C:\Users\Onur Rahmi Ozdemir\source\repos\arac kiralama-nesne proje\arac kiralama\arac kiralama\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\Onur Rahmi Ozdemir\source\repos\arac kiralama-nesne proje\arac kiralama\arac kiralama\obj\Debug\arac kiralama.csprojResolveAssemblyReference.cache
+C:\Users\Onur Rahmi Ozdemir\source\repos\arac kiralama-nesne proje\arac kiralama\arac kiralama\obj\Debug\arac_kiralama.acilis.resources
+C:\Users\Onur Rahmi Ozdemir\source\repos\arac kiralama-nesne proje\arac kiralama\arac kiralama\obj\Debug\arac_kiralama.anasayfa.resources
+C:\Users\Onur Rahmi Ozdemir\source\repos\arac kiralama-nesne proje\arac kiralama\arac kiralama\obj\Debug\arac_kiralama.arac.resources
+C:\Users\Onur Rahmi Ozdemir\source\repos\arac kiralama-nesne proje\arac kiralama\arac kiralama\obj\Debug\arac_kiralama.aracduzenle.resources
+C:\Users\Onur Rahmi Ozdemir\source\repos\arac kiralama-nesne proje\arac kiralama\arac kiralama\obj\Debug\arac_kiralama.aracekle.resources
+C:\Users\Onur Rahmi Ozdemir\source\repos\arac kiralama-nesne proje\arac kiralama\arac kiralama\obj\Debug\arac_kiralama.giris.resources
+C:\Users\Onur Rahmi Ozdemir\source\repos\arac kiralama-nesne proje\arac kiralama\arac kiralama\obj\Debug\arac_kiralama.kiradakiarac.resources
+C:\Users\Onur Rahmi Ozdemir\source\repos\arac kiralama-nesne proje\arac kiralama\arac kiralama\obj\Debug\arac_kiralama.mesaj.resources
+C:\Users\Onur Rahmi Ozdemir\source\repos\arac kiralama-nesne proje\arac kiralama\arac kiralama\obj\Debug\arac_kiralama.musteriform.resources
+C:\Users\Onur Rahmi Ozdemir\source\repos\arac kiralama-nesne proje\arac kiralama\arac kiralama\obj\Debug\arac_kiralama.Properties.Resources.resources
+C:\Users\Onur Rahmi Ozdemir\source\repos\arac kiralama-nesne proje\arac kiralama\arac kiralama\obj\Debug\arac_kiralama.teslimalinacak.resources
+C:\Users\Onur Rahmi Ozdemir\source\repos\arac kiralama-nesne proje\arac kiralama\arac kiralama\obj\Debug\arac kiralama.csproj.GenerateResource.Cache
+C:\Users\Onur Rahmi Ozdemir\source\repos\arac kiralama-nesne proje\arac kiralama\arac kiralama\obj\Debug\arac kiralama.csproj.CoreCompileInputs.cache
+C:\Users\Onur Rahmi Ozdemir\source\repos\arac kiralama-nesne proje\arac kiralama\arac kiralama\obj\Debug\arac kiralama.exe
+C:\Users\Onur Rahmi Ozdemir\source\repos\arac kiralama-nesne proje\arac kiralama\arac kiralama\obj\Debug\arac kiralama.pdb
+C:\Users\Onur Rahmi Ozdemir\source\repos\arac kiralama-nesne proje\arac kiralama\arac kiralama\obj\Debug\arac_kiralama.musteriekle.resources
+C:\Users\Onur Rahmi Ozdemir\source\repos\arac kiralama-nesne proje\arac kiralama\arac kiralama\obj\Debug\arac_kiralama.musteriyiduzenle.resources
+C:\Users\Onur Rahmi Ozdemir\source\repos\arac kiralama-nesne proje\arac kiralama\arac kiralama\obj\Debug\arac_kiralama.kirala.resources
+C:\Users\Onur Rahmi Ozdemir\source\repos\bakilacak proje\arac kiralama\arac kiralama\bin\Debug\arac kiralama.exe.config
+C:\Users\Onur Rahmi Ozdemir\source\repos\bakilacak proje\arac kiralama\arac kiralama\bin\Debug\arac kiralama.exe
+C:\Users\Onur Rahmi Ozdemir\source\repos\bakilacak proje\arac kiralama\arac kiralama\bin\Debug\arac kiralama.pdb
+C:\Users\Onur Rahmi Ozdemir\source\repos\bakilacak proje\arac kiralama\arac kiralama\bin\Debug\EntityFramework.dll
+C:\Users\Onur Rahmi Ozdemir\source\repos\bakilacak proje\arac kiralama\arac kiralama\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\Onur Rahmi Ozdemir\source\repos\bakilacak proje\arac kiralama\arac kiralama\bin\Debug\MetroFramework.Design.dll
+C:\Users\Onur Rahmi Ozdemir\source\repos\bakilacak proje\arac kiralama\arac kiralama\bin\Debug\MetroFramework.dll
+C:\Users\Onur Rahmi Ozdemir\source\repos\bakilacak proje\arac kiralama\arac kiralama\bin\Debug\MetroFramework.Fonts.dll
+C:\Users\Onur Rahmi Ozdemir\source\repos\bakilacak proje\arac kiralama\arac kiralama\bin\Debug\EntityFramework.xml
+C:\Users\Onur Rahmi Ozdemir\source\repos\bakilacak proje\arac kiralama\arac kiralama\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\Onur Rahmi Ozdemir\source\repos\bakilacak proje\arac kiralama\arac kiralama\obj\Debug\arac kiralama.csprojResolveAssemblyReference.cache
+C:\Users\Onur Rahmi Ozdemir\source\repos\bakilacak proje\arac kiralama\arac kiralama\obj\Debug\arac_kiralama.acilis.resources
+C:\Users\Onur Rahmi Ozdemir\source\repos\bakilacak proje\arac kiralama\arac kiralama\obj\Debug\arac_kiralama.anasayfa.resources
+C:\Users\Onur Rahmi Ozdemir\source\repos\bakilacak proje\arac kiralama\arac kiralama\obj\Debug\arac_kiralama.arac.resources
+C:\Users\Onur Rahmi Ozdemir\source\repos\bakilacak proje\arac kiralama\arac kiralama\obj\Debug\arac_kiralama.aracduzenle.resources
+C:\Users\Onur Rahmi Ozdemir\source\repos\bakilacak proje\arac kiralama\arac kiralama\obj\Debug\arac_kiralama.aracekle.resources
+C:\Users\Onur Rahmi Ozdemir\source\repos\bakilacak proje\arac kiralama\arac kiralama\obj\Debug\arac_kiralama.giris.resources
+C:\Users\Onur Rahmi Ozdemir\source\repos\bakilacak proje\arac kiralama\arac kiralama\obj\Debug\arac_kiralama.kiradakiarac.resources
+C:\Users\Onur Rahmi Ozdemir\source\repos\bakilacak proje\arac kiralama\arac kiralama\obj\Debug\arac_kiralama.kirala.resources
+C:\Users\Onur Rahmi Ozdemir\source\repos\bakilacak proje\arac kiralama\arac kiralama\obj\Debug\arac_kiralama.mesaj.resources
+C:\Users\Onur Rahmi Ozdemir\source\repos\bakilacak proje\arac kiralama\arac kiralama\obj\Debug\arac_kiralama.musteriekle.resources
+C:\Users\Onur Rahmi Ozdemir\source\repos\bakilacak proje\arac kiralama\arac kiralama\obj\Debug\arac_kiralama.musteriform.resources
+C:\Users\Onur Rahmi Ozdemir\source\repos\bakilacak proje\arac kiralama\arac kiralama\obj\Debug\arac_kiralama.musteriyiduzenle.resources
+C:\Users\Onur Rahmi Ozdemir\source\repos\bakilacak proje\arac kiralama\arac kiralama\obj\Debug\arac_kiralama.Properties.Resources.resources
+C:\Users\Onur Rahmi Ozdemir\source\repos\bakilacak proje\arac kiralama\arac kiralama\obj\Debug\arac_kiralama.teslimalinacak.resources
+C:\Users\Onur Rahmi Ozdemir\source\repos\bakilacak proje\arac kiralama\arac kiralama\obj\Debug\arac kiralama.csproj.GenerateResource.Cache
+C:\Users\Onur Rahmi Ozdemir\source\repos\bakilacak proje\arac kiralama\arac kiralama\obj\Debug\arac kiralama.csproj.CoreCompileInputs.cache
+C:\Users\Onur Rahmi Ozdemir\source\repos\bakilacak proje\arac kiralama\arac kiralama\obj\Debug\arac kiralama.exe
+C:\Users\Onur Rahmi Ozdemir\source\repos\bakilacak proje\arac kiralama\arac kiralama\obj\Debug\arac kiralama.pdb
+C:\Users\Onur Rahmi Ozdemir\source\repos\bakilacak proje\arac kiralama\arac kiralama\obj\Debug\arac_kiralama.musterisec.resources
+C:\Users\Onur Rahmi Ozdemir\source\repos\bakilacak proje\arac kiralama\arac kiralama\obj\Debug\arac_kiralama.aracsec.resources
+C:\Users\Onur Rahmi Ozdemir\source\repos\bakilacak proje\arac kiralama\arac kiralama\obj\Debug\arac_kiralama.kiragecmis.resources
+C:\Users\Onur Rahmi Ozdemir\source\repos\bakilacak proje\arac kiralama\arac kiralama\obj\Debug\arac_kiralama.ayarlar.resources
+C:\Users\Onur Rahmi Ozdemir\source\repos\bakilacak proje\arac kiralama\arac kiralama\obj\Debug\arac_kiralama.markaekle.resources
+C:\Users\Onur Rahmi Ozdemir\source\repos\bakilacak proje\arac kiralama\arac kiralama\obj\Debug\arac_kiralama.modelekle.resources
+C:\Users\Onur Rahmi Ozdemir\source\repos\bakilacak proje\arac kiralama\arac kiralama\obj\Debug\arac_kiralama.Migrations.InitialCreate.resources
+C:\Users\Onur Rahmi Ozdemir\source\repos\bakilacak proje\arac kiralama\arac kiralama\obj\Debug\arac_kiralama.Migrations.InitialCreate1.resources
+C:\Users\Onur Rahmi Ozdemir\source\repos\bakilacak proje\bakilacak proje\arac kiralama\arac kiralama\bin\Debug\arac kiralama.exe.config
+C:\Users\Onur Rahmi Ozdemir\source\repos\bakilacak proje\bakilacak proje\arac kiralama\arac kiralama\bin\Debug\arac kiralama.exe
+C:\Users\Onur Rahmi Ozdemir\source\repos\bakilacak proje\bakilacak proje\arac kiralama\arac kiralama\bin\Debug\arac kiralama.pdb
+C:\Users\Onur Rahmi Ozdemir\source\repos\bakilacak proje\bakilacak proje\arac kiralama\arac kiralama\bin\Debug\EntityFramework.dll
+C:\Users\Onur Rahmi Ozdemir\source\repos\bakilacak proje\bakilacak proje\arac kiralama\arac kiralama\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\Onur Rahmi Ozdemir\source\repos\bakilacak proje\bakilacak proje\arac kiralama\arac kiralama\bin\Debug\MetroFramework.Design.dll
+C:\Users\Onur Rahmi Ozdemir\source\repos\bakilacak proje\bakilacak proje\arac kiralama\arac kiralama\bin\Debug\MetroFramework.dll
+C:\Users\Onur Rahmi Ozdemir\source\repos\bakilacak proje\bakilacak proje\arac kiralama\arac kiralama\bin\Debug\MetroFramework.Fonts.dll
+C:\Users\Onur Rahmi Ozdemir\source\repos\bakilacak proje\bakilacak proje\arac kiralama\arac kiralama\bin\Debug\EntityFramework.xml
+C:\Users\Onur Rahmi Ozdemir\source\repos\bakilacak proje\bakilacak proje\arac kiralama\arac kiralama\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\Onur Rahmi Ozdemir\source\repos\bakilacak proje\bakilacak proje\arac kiralama\arac kiralama\obj\Debug\arac kiralama.csprojResolveAssemblyReference.cache
+C:\Users\Onur Rahmi Ozdemir\source\repos\bakilacak proje\bakilacak proje\arac kiralama\arac kiralama\obj\Debug\arac_kiralama.acilis.resources
+C:\Users\Onur Rahmi Ozdemir\source\repos\bakilacak proje\bakilacak proje\arac kiralama\arac kiralama\obj\Debug\arac_kiralama.anasayfa.resources
+C:\Users\Onur Rahmi Ozdemir\source\repos\bakilacak proje\bakilacak proje\arac kiralama\arac kiralama\obj\Debug\arac_kiralama.arac.resources
+C:\Users\Onur Rahmi Ozdemir\source\repos\bakilacak proje\bakilacak proje\arac kiralama\arac kiralama\obj\Debug\arac_kiralama.aracduzenle.resources
+C:\Users\Onur Rahmi Ozdemir\source\repos\bakilacak proje\bakilacak proje\arac kiralama\arac kiralama\obj\Debug\arac_kiralama.aracekle.resources
+C:\Users\Onur Rahmi Ozdemir\source\repos\bakilacak proje\bakilacak proje\arac kiralama\arac kiralama\obj\Debug\arac_kiralama.aracsec.resources
+C:\Users\Onur Rahmi Ozdemir\source\repos\bakilacak proje\bakilacak proje\arac kiralama\arac kiralama\obj\Debug\arac_kiralama.ayarlar.resources
+C:\Users\Onur Rahmi Ozdemir\source\repos\bakilacak proje\bakilacak proje\arac kiralama\arac kiralama\obj\Debug\arac_kiralama.giris.resources
+C:\Users\Onur Rahmi Ozdemir\source\repos\bakilacak proje\bakilacak proje\arac kiralama\arac kiralama\obj\Debug\arac_kiralama.kiradakiarac.resources
+C:\Users\Onur Rahmi Ozdemir\source\repos\bakilacak proje\bakilacak proje\arac kiralama\arac kiralama\obj\Debug\arac_kiralama.kiragecmis.resources
+C:\Users\Onur Rahmi Ozdemir\source\repos\bakilacak proje\bakilacak proje\arac kiralama\arac kiralama\obj\Debug\arac_kiralama.kirala.resources
+C:\Users\Onur Rahmi Ozdemir\source\repos\bakilacak proje\bakilacak proje\arac kiralama\arac kiralama\obj\Debug\arac_kiralama.markaekle.resources
+C:\Users\Onur Rahmi Ozdemir\source\repos\bakilacak proje\bakilacak proje\arac kiralama\arac kiralama\obj\Debug\arac_kiralama.mesaj.resources
+C:\Users\Onur Rahmi Ozdemir\source\repos\bakilacak proje\bakilacak proje\arac kiralama\arac kiralama\obj\Debug\arac_kiralama.Migrations.InitialCreate.resources
+C:\Users\Onur Rahmi Ozdemir\source\repos\bakilacak proje\bakilacak proje\arac kiralama\arac kiralama\obj\Debug\arac_kiralama.Migrations.InitialCreate1.resources
+C:\Users\Onur Rahmi Ozdemir\source\repos\bakilacak proje\bakilacak proje\arac kiralama\arac kiralama\obj\Debug\arac_kiralama.modelekle.resources
+C:\Users\Onur Rahmi Ozdemir\source\repos\bakilacak proje\bakilacak proje\arac kiralama\arac kiralama\obj\Debug\arac_kiralama.musteriekle.resources
+C:\Users\Onur Rahmi Ozdemir\source\repos\bakilacak proje\bakilacak proje\arac kiralama\arac kiralama\obj\Debug\arac_kiralama.musteriform.resources
+C:\Users\Onur Rahmi Ozdemir\source\repos\bakilacak proje\bakilacak proje\arac kiralama\arac kiralama\obj\Debug\arac_kiralama.musterisec.resources
+C:\Users\Onur Rahmi Ozdemir\source\repos\bakilacak proje\bakilacak proje\arac kiralama\arac kiralama\obj\Debug\arac_kiralama.musteriyiduzenle.resources
+C:\Users\Onur Rahmi Ozdemir\source\repos\bakilacak proje\bakilacak proje\arac kiralama\arac kiralama\obj\Debug\arac_kiralama.Properties.Resources.resources
+C:\Users\Onur Rahmi Ozdemir\source\repos\bakilacak proje\bakilacak proje\arac kiralama\arac kiralama\obj\Debug\arac_kiralama.teslimalinacak.resources
+C:\Users\Onur Rahmi Ozdemir\source\repos\bakilacak proje\bakilacak proje\arac kiralama\arac kiralama\obj\Debug\arac kiralama.csproj.GenerateResource.Cache
+C:\Users\Onur Rahmi Ozdemir\source\repos\bakilacak proje\bakilacak proje\arac kiralama\arac kiralama\obj\Debug\arac kiralama.csproj.CoreCompileInputs.cache
+C:\Users\Onur Rahmi Ozdemir\source\repos\bakilacak proje\bakilacak proje\arac kiralama\arac kiralama\obj\Debug\arac kiralama.exe
+C:\Users\Onur Rahmi Ozdemir\source\repos\bakilacak proje\bakilacak proje\arac kiralama\arac kiralama\obj\Debug\arac kiralama.pdb
+C:\Users\Onur Rahmi Ozdemir\source\repos\bakilacak proje\bakilacak proje\arac kiralama\arac kiralama\obj\Debug\arac_kiralama.teslimal.resources
+C:\Users\Onur Rahmi Ozdemir\source\repos\bakilacak proje\bakilacak proje\arac kiralama\arac kiralama\obj\Debug\arac_kiralama.bugun.resources
+C:\Users\Onur Rahmi Ozdemir\source\repos\bakilacak proje\bakilacak proje\arac kiralama\arac kiralama\obj\Debug\arac_kiralama.Migrations.kiraveritabani.resources
+C:\Users\Onur Rahmi Ozdemir\source\repos\bakilacak proje\bakilacak proje\arac kiralama\arac kiralama\obj\Debug\arac_kiralama.Migrations.kiraveritabani1.resources
+C:\Users\Onur Rahmi Ozdemir\source\repos\bakilacak proje\bakilacak proje\arac kiralama\arac kiralama\obj\Debug\arac_kiralama.Migrations.kiraveritabani2.resources
+C:\Users\Onur Rahmi Ozdemir\source\repos\bakilacak proje\bakilacak proje\arac kiralama\arac kiralama\obj\Debug\arac_kiralama.Migrations.kiraveritabani3.resources
+C:\Users\Onur Rahmi Ozdemir\source\repos\154410063-Onur Rahmı Ozdemır\rentacar\arac kiralama\arac kiralama\bin\Debug\arac kiralama.exe.config
+C:\Users\Onur Rahmi Ozdemir\source\repos\154410063-Onur Rahmı Ozdemır\rentacar\arac kiralama\arac kiralama\bin\Debug\arac kiralama.exe
+C:\Users\Onur Rahmi Ozdemir\source\repos\154410063-Onur Rahmı Ozdemır\rentacar\arac kiralama\arac kiralama\bin\Debug\arac kiralama.pdb
+C:\Users\Onur Rahmi Ozdemir\source\repos\154410063-Onur Rahmı Ozdemır\rentacar\arac kiralama\arac kiralama\bin\Debug\EntityFramework.dll
+C:\Users\Onur Rahmi Ozdemir\source\repos\154410063-Onur Rahmı Ozdemır\rentacar\arac kiralama\arac kiralama\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\Onur Rahmi Ozdemir\source\repos\154410063-Onur Rahmı Ozdemır\rentacar\arac kiralama\arac kiralama\bin\Debug\MetroFramework.Design.dll
+C:\Users\Onur Rahmi Ozdemir\source\repos\154410063-Onur Rahmı Ozdemır\rentacar\arac kiralama\arac kiralama\bin\Debug\MetroFramework.dll
+C:\Users\Onur Rahmi Ozdemir\source\repos\154410063-Onur Rahmı Ozdemır\rentacar\arac kiralama\arac kiralama\bin\Debug\MetroFramework.Fonts.dll
+C:\Users\Onur Rahmi Ozdemir\source\repos\154410063-Onur Rahmı Ozdemır\rentacar\arac kiralama\arac kiralama\bin\Debug\EntityFramework.xml
+C:\Users\Onur Rahmi Ozdemir\source\repos\154410063-Onur Rahmı Ozdemır\rentacar\arac kiralama\arac kiralama\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\Onur Rahmi Ozdemir\source\repos\154410063-Onur Rahmı Ozdemır\rentacar\arac kiralama\arac kiralama\obj\Debug\arac kiralama.csprojResolveAssemblyReference.cache
+C:\Users\Onur Rahmi Ozdemir\source\repos\154410063-Onur Rahmı Ozdemır\rentacar\arac kiralama\arac kiralama\obj\Debug\arac_kiralama.acilis.resources
+C:\Users\Onur Rahmi Ozdemir\source\repos\154410063-Onur Rahmı Ozdemır\rentacar\arac kiralama\arac kiralama\obj\Debug\arac_kiralama.anasayfa.resources
+C:\Users\Onur Rahmi Ozdemir\source\repos\154410063-Onur Rahmı Ozdemır\rentacar\arac kiralama\arac kiralama\obj\Debug\arac_kiralama.arac.resources
+C:\Users\Onur Rahmi Ozdemir\source\repos\154410063-Onur Rahmı Ozdemır\rentacar\arac kiralama\arac kiralama\obj\Debug\arac_kiralama.aracduzenle.resources
+C:\Users\Onur Rahmi Ozdemir\source\repos\154410063-Onur Rahmı Ozdemır\rentacar\arac kiralama\arac kiralama\obj\Debug\arac_kiralama.aracekle.resources
+C:\Users\Onur Rahmi Ozdemir\source\repos\154410063-Onur Rahmı Ozdemır\rentacar\arac kiralama\arac kiralama\obj\Debug\arac_kiralama.aracsec.resources
+C:\Users\Onur Rahmi Ozdemir\source\repos\154410063-Onur Rahmı Ozdemır\rentacar\arac kiralama\arac kiralama\obj\Debug\arac_kiralama.ayarlar.resources
+C:\Users\Onur Rahmi Ozdemir\source\repos\154410063-Onur Rahmı Ozdemır\rentacar\arac kiralama\arac kiralama\obj\Debug\arac_kiralama.bugun.resources
+C:\Users\Onur Rahmi Ozdemir\source\repos\154410063-Onur Rahmı Ozdemır\rentacar\arac kiralama\arac kiralama\obj\Debug\arac_kiralama.giris.resources
+C:\Users\Onur Rahmi Ozdemir\source\repos\154410063-Onur Rahmı Ozdemır\rentacar\arac kiralama\arac kiralama\obj\Debug\arac_kiralama.kiradakiarac.resources
+C:\Users\Onur Rahmi Ozdemir\source\repos\154410063-Onur Rahmı Ozdemır\rentacar\arac kiralama\arac kiralama\obj\Debug\arac_kiralama.kiragecmis.resources
+C:\Users\Onur Rahmi Ozdemir\source\repos\154410063-Onur Rahmı Ozdemır\rentacar\arac kiralama\arac kiralama\obj\Debug\arac_kiralama.kirala.resources
+C:\Users\Onur Rahmi Ozdemir\source\repos\154410063-Onur Rahmı Ozdemır\rentacar\arac kiralama\arac kiralama\obj\Debug\arac_kiralama.markaekle.resources
+C:\Users\Onur Rahmi Ozdemir\source\repos\154410063-Onur Rahmı Ozdemır\rentacar\arac kiralama\arac kiralama\obj\Debug\arac_kiralama.mesaj.resources
+C:\Users\Onur Rahmi Ozdemir\source\repos\154410063-Onur Rahmı Ozdemır\rentacar\arac kiralama\arac kiralama\obj\Debug\arac_kiralama.Migrations.InitialCreate.resources
+C:\Users\Onur Rahmi Ozdemir\source\repos\154410063-Onur Rahmı Ozdemır\rentacar\arac kiralama\arac kiralama\obj\Debug\arac_kiralama.Migrations.InitialCreate1.resources
+C:\Users\Onur Rahmi Ozdemir\source\repos\154410063-Onur Rahmı Ozdemır\rentacar\arac kiralama\arac kiralama\obj\Debug\arac_kiralama.Migrations.kiraveritabani.resources
+C:\Users\Onur Rahmi Ozdemir\source\repos\154410063-Onur Rahmı Ozdemır\rentacar\arac kiralama\arac kiralama\obj\Debug\arac_kiralama.Migrations.kiraveritabani1.resources
+C:\Users\Onur Rahmi Ozdemir\source\repos\154410063-Onur Rahmı Ozdemır\rentacar\arac kiralama\arac kiralama\obj\Debug\arac_kiralama.Migrations.kiraveritabani2.resources
+C:\Users\Onur Rahmi Ozdemir\source\repos\154410063-Onur Rahmı Ozdemır\rentacar\arac kiralama\arac kiralama\obj\Debug\arac_kiralama.Migrations.kiraveritabani3.resources
+C:\Users\Onur Rahmi Ozdemir\source\repos\154410063-Onur Rahmı Ozdemır\rentacar\arac kiralama\arac kiralama\obj\Debug\arac_kiralama.modelekle.resources
+C:\Users\Onur Rahmi Ozdemir\source\repos\154410063-Onur Rahmı Ozdemır\rentacar\arac kiralama\arac kiralama\obj\Debug\arac_kiralama.musteriekle.resources
+C:\Users\Onur Rahmi Ozdemir\source\repos\154410063-Onur Rahmı Ozdemır\rentacar\arac kiralama\arac kiralama\obj\Debug\arac_kiralama.musteriform.resources
+C:\Users\Onur Rahmi Ozdemir\source\repos\154410063-Onur Rahmı Ozdemır\rentacar\arac kiralama\arac kiralama\obj\Debug\arac_kiralama.musterisec.resources
+C:\Users\Onur Rahmi Ozdemir\source\repos\154410063-Onur Rahmı Ozdemır\rentacar\arac kiralama\arac kiralama\obj\Debug\arac_kiralama.musteriyiduzenle.resources
+C:\Users\Onur Rahmi Ozdemir\source\repos\154410063-Onur Rahmı Ozdemır\rentacar\arac kiralama\arac kiralama\obj\Debug\arac_kiralama.Properties.Resources.resources
+C:\Users\Onur Rahmi Ozdemir\source\repos\154410063-Onur Rahmı Ozdemır\rentacar\arac kiralama\arac kiralama\obj\Debug\arac_kiralama.teslimal.resources
+C:\Users\Onur Rahmi Ozdemir\source\repos\154410063-Onur Rahmı Ozdemır\rentacar\arac kiralama\arac kiralama\obj\Debug\arac_kiralama.teslimalinacak.resources
+C:\Users\Onur Rahmi Ozdemir\source\repos\154410063-Onur Rahmı Ozdemır\rentacar\arac kiralama\arac kiralama\obj\Debug\arac kiralama.csproj.GenerateResource.Cache
+C:\Users\Onur Rahmi Ozdemir\source\repos\154410063-Onur Rahmı Ozdemır\rentacar\arac kiralama\arac kiralama\obj\Debug\arac kiralama.csproj.CoreCompileInputs.cache
+C:\Users\Onur Rahmi Ozdemir\source\repos\154410063-Onur Rahmı Ozdemır\rentacar\arac kiralama\arac kiralama\obj\Debug\arac kiralama.exe
+C:\Users\Onur Rahmi Ozdemir\source\repos\154410063-Onur Rahmı Ozdemır\rentacar\arac kiralama\arac kiralama\obj\Debug\arac kiralama.pdb
+C:\Users\onurrahmi\Downloads\154410063-Onur Rahmı Ozdemır\154410063-Onur Rahmı Ozdemır\rentacar\arac kiralama\arac kiralama\bin\Debug\arac kiralama.exe.config
+C:\Users\onurrahmi\Downloads\154410063-Onur Rahmı Ozdemır\154410063-Onur Rahmı Ozdemır\rentacar\arac kiralama\arac kiralama\bin\Debug\arac kiralama.exe
+C:\Users\onurrahmi\Downloads\154410063-Onur Rahmı Ozdemır\154410063-Onur Rahmı Ozdemır\rentacar\arac kiralama\arac kiralama\bin\Debug\arac kiralama.pdb
+C:\Users\onurrahmi\Downloads\154410063-Onur Rahmı Ozdemır\154410063-Onur Rahmı Ozdemır\rentacar\arac kiralama\arac kiralama\bin\Debug\EntityFramework.dll
+C:\Users\onurrahmi\Downloads\154410063-Onur Rahmı Ozdemır\154410063-Onur Rahmı Ozdemır\rentacar\arac kiralama\arac kiralama\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\onurrahmi\Downloads\154410063-Onur Rahmı Ozdemır\154410063-Onur Rahmı Ozdemır\rentacar\arac kiralama\arac kiralama\bin\Debug\MetroFramework.Design.dll
+C:\Users\onurrahmi\Downloads\154410063-Onur Rahmı Ozdemır\154410063-Onur Rahmı Ozdemır\rentacar\arac kiralama\arac kiralama\bin\Debug\MetroFramework.dll
+C:\Users\onurrahmi\Downloads\154410063-Onur Rahmı Ozdemır\154410063-Onur Rahmı Ozdemır\rentacar\arac kiralama\arac kiralama\bin\Debug\MetroFramework.Fonts.dll
+C:\Users\onurrahmi\Downloads\154410063-Onur Rahmı Ozdemır\154410063-Onur Rahmı Ozdemır\rentacar\arac kiralama\arac kiralama\bin\Debug\EntityFramework.xml
+C:\Users\onurrahmi\Downloads\154410063-Onur Rahmı Ozdemır\154410063-Onur Rahmı Ozdemır\rentacar\arac kiralama\arac kiralama\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\onurrahmi\Downloads\154410063-Onur Rahmı Ozdemır\154410063-Onur Rahmı Ozdemır\rentacar\arac kiralama\arac kiralama\obj\Debug\arac kiralama.csprojAssemblyReference.cache
+C:\Users\onurrahmi\Downloads\154410063-Onur Rahmı Ozdemır\154410063-Onur Rahmı Ozdemır\rentacar\arac kiralama\arac kiralama\obj\Debug\arac_kiralama.acilis.resources
+C:\Users\onurrahmi\Downloads\154410063-Onur Rahmı Ozdemır\154410063-Onur Rahmı Ozdemır\rentacar\arac kiralama\arac kiralama\obj\Debug\arac_kiralama.anasayfa.resources
+C:\Users\onurrahmi\Downloads\154410063-Onur Rahmı Ozdemır\154410063-Onur Rahmı Ozdemır\rentacar\arac kiralama\arac kiralama\obj\Debug\arac_kiralama.arac.resources
+C:\Users\onurrahmi\Downloads\154410063-Onur Rahmı Ozdemır\154410063-Onur Rahmı Ozdemır\rentacar\arac kiralama\arac kiralama\obj\Debug\arac_kiralama.aracduzenle.resources
+C:\Users\onurrahmi\Downloads\154410063-Onur Rahmı Ozdemır\154410063-Onur Rahmı Ozdemır\rentacar\arac kiralama\arac kiralama\obj\Debug\arac_kiralama.aracekle.resources
+C:\Users\onurrahmi\Downloads\154410063-Onur Rahmı Ozdemır\154410063-Onur Rahmı Ozdemır\rentacar\arac kiralama\arac kiralama\obj\Debug\arac_kiralama.aracsec.resources
+C:\Users\onurrahmi\Downloads\154410063-Onur Rahmı Ozdemır\154410063-Onur Rahmı Ozdemır\rentacar\arac kiralama\arac kiralama\obj\Debug\arac_kiralama.ayarlar.resources
+C:\Users\onurrahmi\Downloads\154410063-Onur Rahmı Ozdemır\154410063-Onur Rahmı Ozdemır\rentacar\arac kiralama\arac kiralama\obj\Debug\arac_kiralama.bugun.resources
+C:\Users\onurrahmi\Downloads\154410063-Onur Rahmı Ozdemır\154410063-Onur Rahmı Ozdemır\rentacar\arac kiralama\arac kiralama\obj\Debug\arac_kiralama.giris.resources
+C:\Users\onurrahmi\Downloads\154410063-Onur Rahmı Ozdemır\154410063-Onur Rahmı Ozdemır\rentacar\arac kiralama\arac kiralama\obj\Debug\arac_kiralama.kiradakiarac.resources
+C:\Users\onurrahmi\Downloads\154410063-Onur Rahmı Ozdemır\154410063-Onur Rahmı Ozdemır\rentacar\arac kiralama\arac kiralama\obj\Debug\arac_kiralama.kiragecmis.resources
+C:\Users\onurrahmi\Downloads\154410063-Onur Rahmı Ozdemır\154410063-Onur Rahmı Ozdemır\rentacar\arac kiralama\arac kiralama\obj\Debug\arac_kiralama.kirala.resources
+C:\Users\onurrahmi\Downloads\154410063-Onur Rahmı Ozdemır\154410063-Onur Rahmı Ozdemır\rentacar\arac kiralama\arac kiralama\obj\Debug\arac_kiralama.markaekle.resources
+C:\Users\onurrahmi\Downloads\154410063-Onur Rahmı Ozdemır\154410063-Onur Rahmı Ozdemır\rentacar\arac kiralama\arac kiralama\obj\Debug\arac_kiralama.mesaj.resources
+C:\Users\onurrahmi\Downloads\154410063-Onur Rahmı Ozdemır\154410063-Onur Rahmı Ozdemır\rentacar\arac kiralama\arac kiralama\obj\Debug\arac_kiralama.Migrations.InitialCreate.resources
+C:\Users\onurrahmi\Downloads\154410063-Onur Rahmı Ozdemır\154410063-Onur Rahmı Ozdemır\rentacar\arac kiralama\arac kiralama\obj\Debug\arac_kiralama.Migrations.InitialCreate1.resources
+C:\Users\onurrahmi\Downloads\154410063-Onur Rahmı Ozdemır\154410063-Onur Rahmı Ozdemır\rentacar\arac kiralama\arac kiralama\obj\Debug\arac_kiralama.Migrations.kiraveritabani.resources
+C:\Users\onurrahmi\Downloads\154410063-Onur Rahmı Ozdemır\154410063-Onur Rahmı Ozdemır\rentacar\arac kiralama\arac kiralama\obj\Debug\arac_kiralama.Migrations.kiraveritabani1.resources
+C:\Users\onurrahmi\Downloads\154410063-Onur Rahmı Ozdemır\154410063-Onur Rahmı Ozdemır\rentacar\arac kiralama\arac kiralama\obj\Debug\arac_kiralama.Migrations.kiraveritabani2.resources
+C:\Users\onurrahmi\Downloads\154410063-Onur Rahmı Ozdemır\154410063-Onur Rahmı Ozdemır\rentacar\arac kiralama\arac kiralama\obj\Debug\arac_kiralama.Migrations.kiraveritabani3.resources
+C:\Users\onurrahmi\Downloads\154410063-Onur Rahmı Ozdemır\154410063-Onur Rahmı Ozdemır\rentacar\arac kiralama\arac kiralama\obj\Debug\arac_kiralama.modelekle.resources
+C:\Users\onurrahmi\Downloads\154410063-Onur Rahmı Ozdemır\154410063-Onur Rahmı Ozdemır\rentacar\arac kiralama\arac kiralama\obj\Debug\arac_kiralama.musteriekle.resources
+C:\Users\onurrahmi\Downloads\154410063-Onur Rahmı Ozdemır\154410063-Onur Rahmı Ozdemır\rentacar\arac kiralama\arac kiralama\obj\Debug\arac_kiralama.musteriform.resources
+C:\Users\onurrahmi\Downloads\154410063-Onur Rahmı Ozdemır\154410063-Onur Rahmı Ozdemır\rentacar\arac kiralama\arac kiralama\obj\Debug\arac_kiralama.musterisec.resources
+C:\Users\onurrahmi\Downloads\154410063-Onur Rahmı Ozdemır\154410063-Onur Rahmı Ozdemır\rentacar\arac kiralama\arac kiralama\obj\Debug\arac_kiralama.musteriyiduzenle.resources
+C:\Users\onurrahmi\Downloads\154410063-Onur Rahmı Ozdemır\154410063-Onur Rahmı Ozdemır\rentacar\arac kiralama\arac kiralama\obj\Debug\arac_kiralama.Properties.Resources.resources
+C:\Users\onurrahmi\Downloads\154410063-Onur Rahmı Ozdemır\154410063-Onur Rahmı Ozdemır\rentacar\arac kiralama\arac kiralama\obj\Debug\arac_kiralama.teslimal.resources
+C:\Users\onurrahmi\Downloads\154410063-Onur Rahmı Ozdemır\154410063-Onur Rahmı Ozdemır\rentacar\arac kiralama\arac kiralama\obj\Debug\arac_kiralama.teslimalinacak.resources
+C:\Users\onurrahmi\Downloads\154410063-Onur Rahmı Ozdemır\154410063-Onur Rahmı Ozdemır\rentacar\arac kiralama\arac kiralama\obj\Debug\arac kiralama.csproj.GenerateResource.cache
+C:\Users\onurrahmi\Downloads\154410063-Onur Rahmı Ozdemır\154410063-Onur Rahmı Ozdemır\rentacar\arac kiralama\arac kiralama\obj\Debug\arac kiralama.csproj.CoreCompileInputs.cache
+C:\Users\onurrahmi\Downloads\154410063-Onur Rahmı Ozdemır\154410063-Onur Rahmı Ozdemır\rentacar\arac kiralama\arac kiralama\obj\Debug\arac kiralama.csproj.CopyComplete
+C:\Users\onurrahmi\Downloads\154410063-Onur Rahmı Ozdemır\154410063-Onur Rahmı Ozdemır\rentacar\arac kiralama\arac kiralama\obj\Debug\arac kiralama.exe
+C:\Users\onurrahmi\Downloads\154410063-Onur Rahmı Ozdemır\154410063-Onur Rahmı Ozdemır\rentacar\arac kiralama\arac kiralama\obj\Debug\arac kiralama.pdb
